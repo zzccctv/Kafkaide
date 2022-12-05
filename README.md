@@ -2,8 +2,9 @@
 Kafka CLI to GUI,Help developers quickly operate Kafka cluster,
             <h3>Features:</h3>
             <ul>
-                <li>Multiple clusters support</li>
-                <li>Brokers management</li>
+                <li>multiple clusters support</li>
+                <li>kafka on pulsar</li>
+                <li>brokers management</li>
                 <li>kafka-acls</li>
                 <li>kafka-configs</li>
                 <li>kafka-console-consumer</li>
