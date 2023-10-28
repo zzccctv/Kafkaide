@@ -7,6 +7,7 @@ Kafka CLI to GUI,Help developers quickly operate Kafka cluster,
                 <li>create template classes for kafka produce and consumer</li>
                 <li>kafka-acls</li>
                 <li>kafka-configs</li>
+                <li>kafka-connect</li>
                 <li>kafka-console-consumer</li>
                 <li>kafka-console-producer</li>
                 <li>kafka-consumer-groups</li>
